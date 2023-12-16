@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AplicativoCompleto">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/AplicativoCompleto.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
